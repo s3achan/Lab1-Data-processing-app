@@ -1,8 +1,8 @@
-README.md
+INSTRUCTIONS
 
-Take an image and resize it to a square size
+Part 1: Take an image and resize it to a square size
 
-ImageEditing.py 
+FileName: ImageEditing.py 
 
 Requirements:
 sudo easy_install pip
@@ -10,10 +10,14 @@ sudo pip install pillow
 
 Usage: python ImageEditing.py
 
-SpellChecker.py
+---------------------------------------------------------
+
+Part 2: Take a text file and spell check it 
+
+FileName:SpellChecker.py
 
 Requirements:
 sudo pip install autocorrect 
 
-Usage: Usage: python SpellChecker.py <text file> <word file>
+Usage: python SpellChecker.py <text file> <word file>
 
